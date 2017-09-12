@@ -1,5 +1,6 @@
 ## Welcome to Gan Shizhong Blog
 
+第一次尝试搭建博客，历尽千辛万苦，仍旧未能很好的领悟搭建网站的要义，所以，耗时一天搭建的博客就是眼前这个样子。本人并不想在搭建博客上浪费过多的时间，主要用于提升逼格。
 You can use the [editor on GitHub](https://github.com/ShizhongGan/ganshizhong/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
