@@ -26,6 +26,3 @@
 5. 算法（通常来说，算法以数学为理论基础，按照计算机语言习惯进行编写....我暂时没想好怎么说，反正就是算法让我感受到了数学与计算机的区别，二者完全不同相互促进，才有当前人工智能的繁荣，balabala.....只可意会不可言传）
 6. 网站搭建（业余爱好）
    
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
