@@ -17,7 +17,9 @@
 #### 主要研究方向
 1. [语音信号盲分离](http://www.infocomm-journal.com/txxb/CN/10.11959/j.issn.1000-436x.2017147)
 2. [高光谱图像解混](http://irla.csoe.org.cn/CN/10.3788/IRLA201746.0638001)
-
+#### 创业公司
+[天津宜修智能科技有限公司](http://www.ganshizhong.com/)
+#### [阅读笔记](http://www.ganshizhong.com/PaperReading/)
 #### 感兴趣方向
 1. 神经网络与深度学习（不懂点深度学习，出去吃饭都不好意思说话了）
 2. 统计与优化建模
